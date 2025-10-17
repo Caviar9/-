@@ -1,4 +1,4 @@
-## 摸鱼浏览器（MiniBrowser）
+## 摸鱼浏览器（Procrastination Browser）
 
 一个基于 PyQt5 + QtWebEngine 的轻量浏览器，内置纯黑主题、置顶、小窗透明度调节、老板键与简单导航栏。默认打开抖音，可自定义访问任意网址。
 
@@ -94,7 +94,5 @@ profile.setHttpUserAgent(
 )
 ```
 
-### 许可证
-本项目示例性质，未附带许可证，按“现状”提供；在使用站点内容时请遵守其相关条款与法律法规。
 
 
